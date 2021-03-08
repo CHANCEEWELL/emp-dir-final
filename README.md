@@ -1,4 +1,4 @@
-![](https://share.vidyard.com/watch/wk8hA5Qtvn8JbTZFVMb9FN?)
+https://share.vidyard.com/watch/wk8hA5Qtvn8JbTZFVMb9FN
 
 # Getting Started with Create React App
 
